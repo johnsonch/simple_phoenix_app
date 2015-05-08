@@ -1,5 +1,7 @@
 # SimplePhoenixApp
 
+Followed tutorial at [http://meatherly.github.io/2015/05/04/phoenixlivelikeawarrior/](http://meatherly.github.io/2015/05/04/phoenixlivelikeawarrior/)
+
 To start your new Phoenix application:
 
 1. Install dependencies with `mix deps.get`
