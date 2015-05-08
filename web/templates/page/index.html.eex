@@ -1,0 +1,6 @@
+<div class="jumbotron">
+  <h2>O Snap!</h3>
+  <p class="lead">Phoenix is an Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.</p>
+  <p>
+    <%= link "Users", to: user_path(@conn, :index) %>
+</div>
