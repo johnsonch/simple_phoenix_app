@@ -6,7 +6,7 @@
     "babel-brunch": "^4.0.0",
     "clean-css-brunch": ">= 1.0 < 1.8",
     "css-brunch": ">= 1.0 < 1.8",
-    "javascript-brunch": ">= 1.0 < 1.8",
+    "javascript-brunch": ">=1.8.0",
     "sass-brunch": "git://github.com/brunch/sass-brunch.git#master",
     "uglify-js-brunch": ">= 1.0 < 1.8"
   }
